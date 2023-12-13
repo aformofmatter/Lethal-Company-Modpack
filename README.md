@@ -17,7 +17,7 @@ https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 1)      Open steam library and right click lethal company
 2)      Hover over Manage then click on browse local files (The Game folder will open up)
 3)      Copy and past the contents inside of the modpack folder into the game folder
-      -   4   Items (BepinEx Folder, Changelog.txt, doorstop_config.ini, winhttp.dll)
+      -     4   Items (BepinEx Folder, Changelog.txt, doorstop_config.ini, winhttp.dll)
 4)      Your good to go and play and scream
 
 
