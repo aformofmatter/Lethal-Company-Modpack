@@ -1,9 +1,10 @@
 ### **Lethal Company Modpack, Compiled by Gonz**
 
-**Modpack will be updated when theres an update that will fix any big bugs or major game updates.**
+**Modpack will be updated when theres an update that will fix any big bugs or major game updates.** <br />
+<br /> ***For now this is a pack to increase lobby size, there are no game enhancers!***
+<br />
 
-
-- Mod Sources
+### Mod Sources
 
 https://github.com/BepInEx/BepInEx/releases
 
@@ -11,7 +12,7 @@ https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
 
 https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
-
+<br />
 
 ### **Install for new users**
 
@@ -21,14 +22,14 @@ https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
          4 Items (BepinEx Folder, Changelog.txt, doorstop_config.ini, winhttp.dll)
 
-4) Your good to go and play and scream
+4) Your good to go, launch the game and have some good times with the homies!
 
-
+<br />
 
 ### **Update mods for current users**
 
-1) Delete the current BepinEx Folder in your game folder
+1) Delete the current **plugin** Folder in your BepinEx folder, located in your game folder
 
-2) Just copy and paste the Updated BepinEx Folder
+2) Just copy and paste the Updated **plugin** Folder
  
 3) Thats it, you've updated your mods
