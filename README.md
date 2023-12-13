@@ -5,7 +5,9 @@ Lethal Company Modpack, Compiled by Gonz
 
 - Mod Sources
 https://github.com/BepInEx/BepInEx/releases
+
 https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
+
 https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
 
