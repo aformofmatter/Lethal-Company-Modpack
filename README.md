@@ -1,6 +1,9 @@
 ### **Lethal Company Modpack, Compiled by Gonz**
 
 **Modpack will be updated when theres an update that will fix any big bugs or major game updates.** <br />
+- When I update the modpack I will upload a new release page
+<br />
+
 <br /> ***For now this is a pack to increase lobby size, there are no game enhancers!***
 <br />
 
@@ -13,6 +16,7 @@ https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
 https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
 <br />
+
 
 ### **Install for new users**
 
