@@ -26,6 +26,6 @@
 
 <br />
 
-### [Modpack Sources](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/ModSources.md)
+### [Modpack Sources](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/mods/ModSources.md)
 
 ***For now this is a pack to increase lobby size, there are no game enhancers!***
