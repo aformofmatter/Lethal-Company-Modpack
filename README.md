@@ -8,4 +8,4 @@
 
 [Mod sources for packs](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/ModSources.md)
 
-[Base Modpack Install](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/BaseInstall.md)
+[Base Modpack Install Instructions](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/BaseInstall.md)
