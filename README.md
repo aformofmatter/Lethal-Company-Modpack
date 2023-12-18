@@ -1,6 +1,7 @@
 ### **Lethal Company Modpacks, Compiled by Gonz**
 
-- **Modpacks will be updated when there is a update that will fix any big bugs or major game updates.** <br />
+***Modpacks will be updated when there is a update that will fix any big bugs or major game updates.*** <br />
+***Also NO mod loader needed.***
 
 <br/>
 
