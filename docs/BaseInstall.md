@@ -2,18 +2,7 @@
 
 - **Modpack will be updated when there is a update that will fix any big bugs or major game updates.** <br />
 
-<br/>
-
-### Mod Sources
-
-https://github.com/BepInEx/BepInEx/releases
-
-https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
-
-https://thunderstore.io/c/lethal-company/p/2018/LC_API/
-
 <br />
-
 
 ### **Install for new users**
 
@@ -36,5 +25,7 @@ https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 3) Thats it, you've updated your mods
 
 <br />
+
+### [Modpack Sources](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/ModSources.md)
 
 ***For now this is a pack to increase lobby size, there are no game enhancers!***
