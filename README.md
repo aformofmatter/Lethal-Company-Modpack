@@ -6,6 +6,6 @@
 
 [Releases](https://github.com/aformofmatter/Lethal-Company-Modpack/releases)
 
-[Mod sources for packs](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/ModSources.md)
+[Mod sources for packs](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/mods/ModSources.md)
 
 [Base Modpack Install Instructions](https://github.com/aformofmatter/Lethal-Company-Modpack/blob/main/docs/BaseInstall.md)
